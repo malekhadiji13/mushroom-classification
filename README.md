@@ -58,16 +58,16 @@ solve this binary classification problem using structured mushroom feature data.
 
 ## Results
 
-| Model | Accuracy | F1-Score |
-|-------|----------|----------|
-| Random Forest | 99.1% | 0.992 |
-| KNN | 99.1% | 0.991 |
-| Decision Tree | 97.8% | 0.980 |
-| CNN | 98.2% | 0.983 |
-| ANN | 97.7% | 0.979 |
-| RNN | 87.1% | 0.879 |
-| Logistic Regression | 63.7% | 0.684 |
-| Gaussian Naive Bayes | 63.3% | 0.682 |
+| Model | Accuracy |
+|-------|----------|
+| Random Forest | 99.1% |
+| KNN | 99.1% |
+| Decision Tree | 97.8% |
+| CNN | 98.2% | 
+| ANN | 97.7% | 
+| RNN | 87.1% | 
+| Logistic Regression | 63.7% | 
+| Gaussian Naive Bayes | 63.3% | 
 
 **Key finding:** Random Forest and KNN were the top performers overall. Among deep 
 learning models, CNN achieved the best recall and F1-score. RNN, Logistic Regression, 
