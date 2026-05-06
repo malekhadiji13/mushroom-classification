@@ -2,19 +2,13 @@
 # Comparative Analysis of ML & Deep Learning Models for Mushroom Binary Classification
 
 A fully explainable comparative study of 5 Machine Learning and 3 Deep Learning 
-models for mushroom binary classification — covering EDA, data preprocessing, model 
+models for mushroom binary classification covering EDA, data preprocessing, model 
 evaluation, and interpreted results with a detailed written report.
 
 ---
 
-## About This Project
-
-This project goes beyond running models — every step is fully explained and 
-interpreted, from exploratory data analysis and preprocessing decisions to model 
-selection rationale and result analysis.
-
-The report documents all findings in detail, making this a complete 
-end-to-end explainable AI study.
+This project goes beyond running models, every step is fully explained and 
+interpreted in the notebook and report.
 
 ---
 
