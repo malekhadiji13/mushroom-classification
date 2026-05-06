@@ -14,7 +14,7 @@ interpreted in the notebook and report.
 
 Classifying mushrooms as edible or poisonous is a critical task with direct health 
 implications. This project explores and compares multiple ML and DL approaches to 
-solve this binary classification problem using structured mushroom feature data.
+solve this binary classification problem.
 
 ---
 
