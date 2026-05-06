@@ -5,8 +5,6 @@ A fully explainable comparative study of 5 Machine Learning and 3 Deep Learning
 models for mushroom binary classification covering EDA, data preprocessing, model 
 evaluation, and interpreted results with a detailed written report.
 
----
-
 This project goes beyond running models, every step is fully explained and 
 interpreted in the notebook and report.
 
