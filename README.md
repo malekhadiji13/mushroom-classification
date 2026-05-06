@@ -5,9 +5,6 @@ A fully explainable comparative study of 5 Machine Learning and 3 Deep Learning
 models for mushroom binary classification — covering EDA, data preprocessing, model 
 evaluation, and interpreted results with a detailed written report.
 
-Developed as part of MBA 523: Neural Networks & Deep Learning  
-Master's in Business Analytics — Tunis Business School, 2024/2025
-
 ---
 
 ## About This Project
