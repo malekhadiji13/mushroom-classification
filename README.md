@@ -29,7 +29,7 @@ solve this binary classification problem using structured mushroom feature data.
 
 ---
 
-## Models Compared
+## Models
 
 **Machine Learning**
 - K-Nearest Neighbors (KNN)
